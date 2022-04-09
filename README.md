@@ -23,3 +23,7 @@ After that, you'll need to install PySide6. You can easily do it by executing:
 Alternatively, you can use the requirements.txt file:
 
     pip install -r requirements.txt
+
+Finally, to run the project, simply execute:
+
+    py main.py
